@@ -1,5 +1,4 @@
-# smart-ordering-system
-# Smart Food Court AI Ordering System
+# Smart AI Ordering System
 
 An AI-powered food ordering system built on a smart table concept.
 Uses a recommendation engine to personalise food suggestions for each user.
