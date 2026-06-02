@@ -1,0 +1,11 @@
+food_id,name,cuisine,price,spicy,sweet,halal,vegetarian,tags
+1,Chicken Rice,Chinese,4.5,0,0,1,0,rice chicken mild
+2,Laksa,Malay,5.5,1,0,1,0,noodles spicy coconut
+3,Char Kway Teow,Chinese,5.0,1,0,0,0,noodles fried smoky
+4,Nasi Lemak,Malay,4.0,1,1,1,0,rice coconut spicy
+5,Roti Prata,Indian,3.5,0,0,1,1,bread crispy curry
+6,Mee Goreng,Indian,4.5,1,0,1,1,noodles spicy fried
+7,Wonton Noodles,Chinese,5.0,0,0,0,0,noodles pork soup mild
+8,Fish Ball Noodles,Chinese,4.0,0,0,0,0,noodles soup mild fish
+9,Vegetable Fried Rice,Chinese,4.0,0,0,1,1,rice vegetarian mild
+10,Mango Sticky Rice,Thai,4.5,0,1,1,1,dessert sweet mango

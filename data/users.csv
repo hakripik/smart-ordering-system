@@ -1,0 +1,5 @@
+user_id,name,budget,likes_spicy,vegetarian,halal_required
+U1,Alice,5,1,0,0
+U2,Bob,4,0,1,1
+U3,Charlie,6,1,0,1
+U4,Diana,5,0,1,1
